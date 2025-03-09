@@ -37,6 +37,6 @@ Most sought-after skills: Python, Machine Learning, SQL, Business Intelligence
 Top locations for job opportunities: Major tech hubs (e.g., San Francisco, New York)
 High-demand job titles: Data Scientist, Data Analyst, Machine Learning Engineer
 
-Conclusion
+Conclusion:
 This analysis provides valuable insights into the Data Science job market, helping job seekers and professionals understand industry trends, skills in demand, and salary expectations. The findings support career planning and recruitment strategies in this dynamic field.
 
